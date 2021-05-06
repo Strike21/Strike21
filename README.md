@@ -24,5 +24,5 @@
  
  ##
 ### Contatos:
-*Discord*: strike2121 #0171
-*Email*: arthur.garin.dev@gmail.com
+ - *Discord*: strike2121 #0171
+ - *Email*: arthur.garin.dev@gmail.com
