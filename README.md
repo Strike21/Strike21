@@ -1,4 +1,4 @@
-## Olá mundo 🌍
+## <img src="https://i.imgur.com/qfRWQvB.gif" width="24px"> Olá mundo <img src="https://i.imgur.com/qfRWQvB.gif" width="24px">
 
  - 🚩 Petrópolis, Rio de Janeiro, Brazil
  - 🌌 Milky Way
