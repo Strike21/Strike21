@@ -32,10 +32,16 @@
  
  ##
 ### Contatos:
- - <a href="https://discord.gg/strike2121#0171">
+ <a href="https://discord.gg/strike2121#0171">
   <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
- - <a href="arthur.garin.dev@gmail.com
+
+
+<br />
+<br />
+
+
+- <a href="arthur.garin.dev@gmail.com
 ">
   <img align="left" alt="Discord" width="21px" src="https://lh3.googleusercontent.com/TEYCpDdqgEp18E9Nbjm30j9tOB4ebLWZzcvWTY4jMcWEglTolfRxq6Bo4R0Rn0XHqF9hkRSoF3vmwpohsDDZsoaqRQ=w128-h128-e365-rj-sc0x00ffffff" />
 </a> arthur.garin.dev@gmail.com
