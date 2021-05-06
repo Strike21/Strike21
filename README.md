@@ -52,6 +52,7 @@
 Meu principal projeto foi um jogo com 17 fases. Ele Se chama **Cubi**. É basicamente um puzzle tridimensional estou pensando em lançar a versão em português.
 
 Demorou quanto tempo para fazer?
+
 -**3 meses**
 
 Como Joga?
