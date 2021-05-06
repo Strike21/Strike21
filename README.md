@@ -46,6 +46,36 @@
  
  
  ##
+
+### Meu principal projeto:
+
+Meu principal projeto foi um jogo com 17 fases. Ele Se chama **Cubi**. É basicamente um puzzle tridimensional estou pensando em lançar a versão em português.
+
+Demorou quanto tempo para fazer?
+**3 meses**
+
+Como Joga?
+
+Você vai no neste link: https://cubi.joresonhu.repl.co
+
+Em qual linguagem vc fez?
+
+<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
+
+<br />
+<br />
+
+<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
+
+<br />
+<br />
+
+<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+
+##
+
+
 ### Contatos:
  <a href="https://discord.gg/strike2121#0171">
   <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
