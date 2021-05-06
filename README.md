@@ -1,16 +1,28 @@
-### Hi there 👋
+## Olá mundo 🌍
 
-<!--
-**Strike21/Strike21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ - 🚩Petrópolis, Rio de Janeiro, Brazil
+ - 🌌Milky Way
+ - 👦 14y
+ ##
+ 
+### O que eu faço?
+ 
+ 
+ - Atualmente não estou fazendo muita coisa, só estou esperando o resultado de supporte da *discloud* sair ☁🤖
+ ![enter image description here](https://avatars2.githubusercontent.com/u/52298750?s=200&v=4)
+ ##
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+### Minhas habilidades:
+
+ - Discord bots com JS 📦🤖
+ - Jogos em kaboom.js  🤯🎮
+ - Jogos em HML, CSS and JS  💻🎮
+ - Jogos em pygame 🐍 🎮
+ 
+ ##
+### Contatos:
+*Discord*: strike2121 #0171
+*Email*: arthur.garin.dev@gmail.com
