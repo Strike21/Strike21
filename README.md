@@ -10,7 +10,7 @@
 ### O que eu faço?
  
  
- - Atualmente não estou fazendo muita coisa, só estou esperando o resultado de supporte da *discloud* sair<a href="https://discord.gg/strike2121#0171">
+ - Atualmente não estou fazendo muita coisa, só estou esperando o resultado de supporte da *discloud* sair<a href="https://discloudbot.com/">
   <img align="left" alt="Discord" width="21px" src="https://avatars2.githubusercontent.com/u/52298750?s=200&v=4" />
 </a>
  
