@@ -42,7 +42,7 @@
 <br />
 <br />
 
-<img align="left" alt="Python" width="26px" src="https://i.pinimg.com/originals/ca/00/60/ca0060f3414e6e20b75983acddafad53.gif" /> Games
+<img align="left" alt="Python" width="26px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Ge9Pgpys--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/20/57795360-bec24f00-7713-11e9-9516-20f5f5d0f034.png" /> Games
  
  
  ##
