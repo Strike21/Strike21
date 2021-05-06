@@ -7,7 +7,8 @@
  <a href="https://discord.gg/strike2121#0171">
   <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
- ##
+
+##
  
 ### O que eu faço?
  
