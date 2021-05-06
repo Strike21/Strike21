@@ -9,7 +9,7 @@
  
  
  - Atualmente não estou fazendo muita coisa, só estou esperando o resultado de supporte da *discloud* sair ☁🤖
- ![enter image description here](https://avatars2.githubusercontent.com/u/52298750?s=200&v=4)
+ ![Discloud Badge](https://avatars2.githubusercontent.com/u/52298750?s=200&v=4)
  ##
 
 
