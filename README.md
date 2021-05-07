@@ -69,7 +69,7 @@ Demorou quanto tempo para fazer?
 
 Como Joga / How to play?
 
--Você vai no neste link / You go to this link: https://cubi.joresonhu.repl.co
+https://cubi.joresonhu.repl.co
 
 Em qual linguagem vc fez / In which language did you do?
 
