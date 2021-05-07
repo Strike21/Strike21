@@ -4,6 +4,7 @@
  - 🌌 Via Láctea / Milky Way
  - 👦 14y
  - 😀 Arthur
+ <br />
  -<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Simbolo_konoha.svg/768px-Simbolo_konoha.svg.png" width="24px"> I love Naruto
 
 ##
