@@ -30,11 +30,11 @@
 
 ### Minhas habilidades / My Skills:
 <a href="https://pt.wikipedia.org/wiki/JavaScript">
-  <img align="left" alt="Discord" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/260px-Unofficial_JavaScript_logo_2.svg.png" />
+  <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 
 
 <a href="https://github.com">
-  <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+  <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" />
 
 
 
@@ -53,7 +53,8 @@
 
 
 <a href="https://pt.wikipedia.org/wiki/Python">
-  <img align="left" alt="Discord" width="21px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Ge9Pgpys--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/20/57795360-bec24f00-7713-11e9-9516-20f5f5d0f034.png" />
+  <img align="left" alt="Discord" width="21px" src="https://user-images.githubusercontent.com/82236378/117501488-7f224c80-af54-11eb-9b96-aef7b76edb7d.png
+" />
  
  <br />
  
