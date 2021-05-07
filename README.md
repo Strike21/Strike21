@@ -10,7 +10,7 @@
 ### O que eu faço / What do I do?
  
  
- - Atualmente não estou fazendo muita coisa, só estou esperando o resultado de supporte da *discloud* sair (se eu entrar atualizo aqui) / Currently I'm not doing much, I'm just waiting for the * discloud * support result to come out (if I enter I update here) <a href="https://discloudbot.com/">
+ - Atualmente não estou fazendo muita coisa, só estou esperando o resultado de supporte da *discloud* sair (se eu entrar atualizo aqui) / Currently I'm not doing much, I'm just waiting for the *discloud* support result to come out (if I enter I update here) <a href="https://discloudbot.com/">
   <img align="left" alt="Discord" width="21px" src="https://avatars2.githubusercontent.com/u/52298750?s=200&v=4" />
 </a>
  
@@ -23,7 +23,7 @@
 
 
 
-### Minhas habilidades:
+### Minhas habilidades / My Skills:
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /> Discord Bots
 
 <br />
@@ -50,19 +50,19 @@
  
  ##
 
-### Meu principal projeto:
+### Meu principal projeto / My main project:
 
-Meu principal projeto foi um jogo com 17 fases. Ele Se chama **Cubi**. É basicamente um puzzle tridimensional estou pensando em lançar a versão em português.
+Meu principal projeto foi um jogo com 17 fases. Ele Se chama **Cubi**. É basicamente um puzzle tridimensional estou pensando em lançar a versão em português. / My main project was a game with 17 levels. It’s called **Cubi**. It is basically a three-dimensional puzzle I am thinking of launching the Portuguese version.
 
 Demorou quanto tempo para fazer?
 
--**3 meses**
+-**3 meses** / **3 months**
 
-Como Joga?
+Como Joga / How to play?
 
--Você vai no neste link: https://cubi.joresonhu.repl.co
+-Você vai no neste link / You go to this link: https://cubi.joresonhu.repl.co
 
-Em qual linguagem vc fez?
+Em qual linguagem vc fez / In which language did you do?
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
 
@@ -80,7 +80,7 @@ Em qual linguagem vc fez?
 ##
 
 
-### Contatos:
+### Contatos / Contacts:
  <a href="https://discord.gg/strike2121#0171">
   <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a> *strike2121 #0171*
