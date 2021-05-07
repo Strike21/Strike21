@@ -101,5 +101,5 @@ Em qual linguagem vc fez / In which language did you do?
 
 ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strike21)](https://github.com/Strike21)
  
