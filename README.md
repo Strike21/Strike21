@@ -40,12 +40,12 @@
 
 
 <a href="https://pt.wikipedia.org/wiki/HTML#">
-  <img align="left" alt="Discord" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" />
+  <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
 
 
 
 <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets">
-  <img align="left" alt="Discord" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" />
+  <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
 
 
 
@@ -53,8 +53,7 @@
 
 
 <a href="https://pt.wikipedia.org/wiki/Python">
-  <img align="left" alt="Discord" width="21px" src="https://user-images.githubusercontent.com/82236378/117501488-7f224c80-af54-11eb-9b96-aef7b76edb7d.png
-" />
+  <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
  
  <br />
  
@@ -99,4 +98,8 @@ Em qual linguagem vc fez / In which language did you do?
 ">
   <img align="left" alt="Discord" width="21px" src="https://lh3.googleusercontent.com/TEYCpDdqgEp18E9Nbjm30j9tOB4ebLWZzcvWTY4jMcWEglTolfRxq6Bo4R0Rn0XHqF9hkRSoF3vmwpohsDDZsoaqRQ=w128-h128-e365-rj-sc0x00ffffff" />
 </a> arthur.garin.dev@gmail.com
+
+##
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
  
