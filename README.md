@@ -92,7 +92,7 @@ Em qual linguagem vc fez / In which language did you do?
 ### Contatos / Contacts:
  <a href="https://discord.gg/strike2121#0171">
   <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
-</a> *strike2121 #0171*
+</a> **strike2121 #0171**
 
  <a href="arthur.garin.dev@gmail.com
 ">
