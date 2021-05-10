@@ -102,4 +102,7 @@ Em qual linguagem vc fez / In which language did you do?
 ##
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Strike21)](https://github.com/Strike21)
+
+![](https://github-readme-stats.vercel.app/api?username=Strike21&show_icons=true&theme=transparent)
+
  
