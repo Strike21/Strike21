@@ -46,14 +46,19 @@
 
 <a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets">
   <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+ 
+ 
+ 
+<a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets">
+  <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+ 
 
 
 
 
 
-
-<a href="https://pt.wikipedia.org/wiki/Python">
-  <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<a href="hhttps://pt.wikipedia.org/wiki/Visual_Studio_Code">
+  <img align="left" alt="Discord" width="21px" src="https://emoji.gg/assets/emoji/2022_vs_code_rainbow.gif" />
  
  <br />
  
