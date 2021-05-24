@@ -103,6 +103,9 @@ Em qual linguagem vc fez / In which language did you do?
 ">
   <img align="left" alt="Discord" width="21px" src="https://lh3.googleusercontent.com/TEYCpDdqgEp18E9Nbjm30j9tOB4ebLWZzcvWTY4jMcWEglTolfRxq6Bo4R0Rn0XHqF9hkRSoF3vmwpohsDDZsoaqRQ=w128-h128-e365-rj-sc0x00ffffff" />
 </a> arthur.garin.dev@gmail.com
+ 
+ ![](https://discord.c99.nl/widget/theme-1/824940190673534976.png)
+
 
 ##
 
