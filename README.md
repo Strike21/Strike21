@@ -25,9 +25,7 @@
  
  ##
 
-### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-steel.vercel.app/api/spotify-playing" alt="Escutando" width="350" />](https://open.spotify.com/user/8gsmxo19h2jh0kkarim5cp60w)
 
 
 ### Minhas habilidades / My Skills:
