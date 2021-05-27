@@ -44,8 +44,6 @@
 
 
 
-<a href="https://pt.wikipedia.org/wiki/Cascading_Style_Sheets">
-  <img align="left" alt="Discord" width="21px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
  
  
  
