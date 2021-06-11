@@ -62,34 +62,6 @@
  
  ##
 
-### Meu principal projeto / My main project:
-
-Meu principal projeto foi um jogo com 17 fases. Ele Se chama **Cubi**. É basicamente um puzzle tridimensional estou pensando em lançar a versão em português. / My main project was a game with 17 levels. It’s called **Cubi**. It is basically a three-dimensional puzzle I am thinking of launching the Portuguese version.
-
-Demorou quanto tempo para fazer?
-
--**3 meses** / **3 months**
-
-Como Joga / How to play?
-
-https://cubi.joresonhu.repl.co
-
-Em qual linguagem vc fez / In which language did you do?
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /> 
-
-
-
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /> 
-
-
-
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-
-##
 
 
 ### Contatos / Contacts:
