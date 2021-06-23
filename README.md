@@ -9,7 +9,7 @@
 ## Sobre mim:
 
 - 👦 Eu tenho 14 anos
-- 🌱 Atualmente estou estudando [discord.js](https://discord.js.org/#/) e [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript) (eu sei js mas ser full stack é meu objetivo)
+- 🌱 Atualmente estou estudando discord.js e JavaScript (eu sei js mas ser full stack é meu objetivo)
 
 
 
