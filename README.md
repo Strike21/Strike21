@@ -38,10 +38,9 @@
         <li>[x] - Html e css 💻</li>
         <li>[ ] - MySQL 🐬</li>
         <li>[ ] - Firebase 🔥</li>
-        <li>[ ] - PostgreSQL 🐘</li>
+        <li>[ ] - PHP 🐘</li>
         <li>[ ] - Java ☕</li>
         <li>[ ] - React ⚛</li>
-        <li>[ ] - Oracle 🗄️</li>
     </ul>
 </details>
 
