@@ -30,7 +30,7 @@
 <br>
 
 <details>
-    <summary> <b>| Objetivos para 2021:</b></summary>
+    <summary> <b>| Objetivos para completar até 2023:</b></summary>
     <h3> • Tecnologias:</h3>
     <ul>
         <li>[x] - JavaScript e Node 📦</li>
