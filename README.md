@@ -36,11 +36,11 @@
         <li>[x] - JavaScript e Node 📦</li>
         <li>[x] - MongoDB 🍃</li>
         <li>[x] - Html e css 💻</li>
-        <li>[ ] - MySQL 🐬</li>
+        <li>[ ] - MySQL 🐬(fazendo curso agr)</li>
         <li>[ ] - Firebase 🔥</li>
         <li>[ ] - PHP 🐘</li>
         <li>[ ] - Java ☕</li>
-        <li>[ ] - React ⚛</li>
+        <li>[ ] - React ⚛(estudando)</li>
     </ul>
 </details>
 
