@@ -28,7 +28,8 @@
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank"> <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="html" width="" height="30"/> </a>
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank"> <img src="http://monarchtechnologiesinc.com/assets/images/icons/technologies/logo-css3.png" alt="html" width="" height="38"/> </a>
 </p>
-
+<a href="https://ejs.co/" target="_blank"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ejs_icon_130626.png" alt="ejs" width="" height="38"/> </a>
+</p>
 <br>
 
 <details>
@@ -38,7 +39,6 @@
         <li>[x] - JavaScript e Node 📦</li>
         <li>[x] - MongoDB 🍃</li>
         <li>[x] - Html e css 💻</li>
-        <li>[ ] - MySQL 🐬(fazendo curso agr)</li>
         <li>[ ] - Firebase 🔥</li>
         <li>[ ] - PHP 🐘</li>
         <li>[ ] - Java ☕</li>
