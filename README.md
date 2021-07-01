@@ -10,6 +10,8 @@
 
 - 👦 Eu tenho 14 anos
 - 🌱 Atualmente estou estudando discord.js e JavaScript (eu sei js mas ser full stack é meu objetivo)
+- 😷  Trabalhando de casa
+- 📍 Onde eu quiser ir
 
 
 
@@ -44,8 +46,14 @@
     </ul>
 </details>
 
-
+<details>
+    <summary><b>Lembre-se...</b></summary>
+    https://www.youtube.com/watch?v=lBikGgW8ZRs 👀 
+</details>
+  
 ## Conecte-se comigo:
 [<img align="left" alt="Strike21 | Discord" width="22px" src="https://raw.githubusercontent.com/DiogoMarques2003/DiogoMarques2003/b931474e37b6cc318a15c243804ad4bc4b9bd441/.github/logos/discord.svg" width="50" height="50" />][discord]
 
-[discord]: https://discord.com/users/824940190673534976
+
+  [discord]: https://discord.com/users/824940190673534976
+  
