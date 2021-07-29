@@ -9,9 +9,9 @@
 ## Sobre mim:
 
 - 👦 Eu tenho 14 anos
-- 🌱 Atualmente estou estudando discord.js e JavaScript (eu sei js mas ser full stack é meu objetivo)
-- 😷  Trabalhando de casa
-- 📍 Onde eu quiser ir
+- 🌱 Estudando para prova
+- 😷 Trabalhando de casa
+- 📍  Onde eu quiser ir
 
 
 
