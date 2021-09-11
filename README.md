@@ -41,9 +41,7 @@
 ## Estudando 📚: 
  <a href="https://reactnative.dev" target="_blank"> <img src="https://appmasters.io/static/react-native-logo-21829a0f16a823088ccbde8e44fb5485.png" alt="React Native" width="" height="45"/> </a>
   
-  
-  
-  https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
+ 
  
 
 <details>
