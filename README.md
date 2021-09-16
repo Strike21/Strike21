@@ -39,7 +39,10 @@
 <br>
   
 ## Estudando 📚: 
- <a href="https://reactnative.dev" target="_blank"> <img src="https://appmasters.io/static/react-native-logo-21829a0f16a823088ccbde8e44fb5485.png" alt="React Native" width="" height="45"/> </a>
+ <p align="left">
+  <a href="https://reactnative.dev" target="_blank"> <img src="https://appmasters.io/static/react-native-logo-21829a0f16a823088ccbde8e44fb5485.png" alt="React Native" width="" height="45"/> </a>
+  <a href="https://golang.org/" target="_blank"> <img src="https://juststickers.in/wp-content/uploads/2016/07/go-programming-language.png" alt="Go lang" width="" height="45"/> </a>
+  </p>
   
  
  
