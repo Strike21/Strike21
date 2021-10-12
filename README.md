@@ -69,3 +69,7 @@
 
   [discord]: https://discord.com/users/824940190673534976
   
+  
+  
+  ![Snake animation](https://github.com/Strike21/Strike21/blob/output/github-contribution-grid-snake.svg)
+  
