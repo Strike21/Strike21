@@ -57,7 +57,6 @@
         <li>[x] - ReactJS ⚛</li>
         <li>[ ] - React Native ⚛</li>
         <li>[ ] - Firebase 🔥</li>
-        <li>[ ] - PHP 🐘</li>
         <li>[ ] - Java ☕</li>
     </ul>
 </details>
